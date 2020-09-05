@@ -1,0 +1,1 @@
+There is a note that, in order to avoid bias during training the CNN, shuffing the photos in the cumulative data set being using them.
